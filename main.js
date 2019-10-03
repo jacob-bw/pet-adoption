@@ -7,7 +7,7 @@ const pets = [
         type_of_pet: 'cat'
         },
     {
-        image: 'https://vignette.wikia.nocookie.net/clifford/images/d/d1/Clifford4.png/revision/latest/scale-to-width-down/300?cb=20131006055214',
+        image: 'https://media.npr.org/assets/img/2012/09/21/clifford2_wide-dbb310c2a0edeb9326413ac6f7a180445f3e03a7.jpg?s=1400',
         name: 'Clifford',
         color: 'Red',
         special_skill: 'he is roughly the size of a house and is very friendly',
