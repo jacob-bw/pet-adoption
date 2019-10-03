@@ -4,7 +4,7 @@
 > A site where you can find a new pet to adopt
 
 ## Screenshots
-![screenshot of pet cards]()
+![screenshot of pet cards](https://raw.githubusercontent.com/jacob-bw/pet-adoption/master/pet-adoption-screenshot.png)
 
 # Instructions on How to Run
 * clone down this project
